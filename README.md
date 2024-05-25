@@ -2,7 +2,7 @@
 
 # Project Architecture
 
-![Architecture](Screenshot 2024-05-21 000037.png)
+![Architecture](https://github.com/FlowerC9/Spring_JobApplication/blob/main/Screenshot%202024-05-21%20000037.png)
 ## Run Locally
 
 Clone the project
